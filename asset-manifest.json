@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auth0-react-sample/static/css/main.4025e821.chunk.css",
+    "main.js": "/auth0-react-sample/static/js/main.1692c739.chunk.js",
+    "main.js.map": "/auth0-react-sample/static/js/main.1692c739.chunk.js.map",
+    "runtime-main.js": "/auth0-react-sample/static/js/runtime-main.bf9c7b59.js",
+    "runtime-main.js.map": "/auth0-react-sample/static/js/runtime-main.bf9c7b59.js.map",
+    "static/js/2.53c04686.chunk.js": "/auth0-react-sample/static/js/2.53c04686.chunk.js",
+    "static/js/2.53c04686.chunk.js.map": "/auth0-react-sample/static/js/2.53c04686.chunk.js.map",
+    "index.html": "/auth0-react-sample/index.html",
+    "precache-manifest.ece086a126cf0e46f8cd4846f7b578be.js": "/auth0-react-sample/precache-manifest.ece086a126cf0e46f8cd4846f7b578be.js",
+    "service-worker.js": "/auth0-react-sample/service-worker.js",
+    "static/css/main.4025e821.chunk.css.map": "/auth0-react-sample/static/css/main.4025e821.chunk.css.map",
+    "static/js/2.53c04686.chunk.js.LICENSE.txt": "/auth0-react-sample/static/js/2.53c04686.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9c7b59.js",
+    "static/js/2.53c04686.chunk.js",
+    "static/css/main.4025e821.chunk.css",
+    "static/js/main.1692c739.chunk.js"
+  ]
+}
